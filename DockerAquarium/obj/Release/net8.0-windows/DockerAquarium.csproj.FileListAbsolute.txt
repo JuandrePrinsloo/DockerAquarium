@@ -1,0 +1,7 @@
+C:\Users\Juand\OneDrive\Desktop\Projects\Docker Aquarium\DockerAquarium\obj\Release\net8.0-windows\DockerAquarium.csproj.AssemblyReference.cache
+C:\Users\Juand\OneDrive\Desktop\Projects\Docker Aquarium\DockerAquarium\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\Juand\OneDrive\Desktop\Projects\Docker Aquarium\DockerAquarium\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\Juand\OneDrive\Desktop\Projects\Docker Aquarium\DockerAquarium\obj\Release\net8.0-windows\App.g.cs
+C:\Users\Juand\OneDrive\Desktop\Projects\Docker Aquarium\DockerAquarium\obj\Release\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Juand\OneDrive\Desktop\Projects\Docker Aquarium\DockerAquarium\obj\Release\net8.0-windows\DockerAquarium_MarkupCompile.cache
+C:\Users\Juand\OneDrive\Desktop\Projects\Docker Aquarium\DockerAquarium\obj\Release\net8.0-windows\DockerAquarium_MarkupCompile.lref
